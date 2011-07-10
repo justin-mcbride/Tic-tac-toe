@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tictactoe", "tictactoe\tictactoe\tictactoe.csproj", "{34D8B9BF-9C11-4937-B592-37C667E4678F}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "tictactoeContent", "tictactoe\tictactoeContent\tictactoeContent.contentproj", "{6B1DD503-6C51-4293-A15E-BED94AF83DC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34D8B9BF-9C11-4937-B592-37C667E4678F}.Debug|x86.ActiveCfg = Debug|x86
+		{34D8B9BF-9C11-4937-B592-37C667E4678F}.Debug|x86.Build.0 = Debug|x86
+		{34D8B9BF-9C11-4937-B592-37C667E4678F}.Release|x86.ActiveCfg = Release|x86
+		{34D8B9BF-9C11-4937-B592-37C667E4678F}.Release|x86.Build.0 = Release|x86
+		{6B1DD503-6C51-4293-A15E-BED94AF83DC5}.Debug|x86.ActiveCfg = Debug|x86
+		{6B1DD503-6C51-4293-A15E-BED94AF83DC5}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

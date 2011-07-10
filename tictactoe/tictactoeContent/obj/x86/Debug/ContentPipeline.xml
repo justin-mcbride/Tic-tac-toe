@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\justin\documents\visual studio 2010\Projects\tictactoe\tictactoe\tictactoe\bin\x86\Debug\Content\blank.xnb</Output>
+      <Time>2011-07-08T01:48:05.752-06:00</Time>
+    </Item>
+    <Item>
+      <Source>O.png</Source>
+      <Name>O</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\justin\documents\visual studio 2010\Projects\tictactoe\tictactoe\tictactoe\bin\x86\Debug\Content\O.xnb</Output>
+      <Time>2011-07-08T01:48:05.753-06:00</Time>
+    </Item>
+    <Item>
+      <Source>X.png</Source>
+      <Name>X</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\justin\documents\visual studio 2010\Projects\tictactoe\tictactoe\tictactoe\bin\x86\Debug\Content\X.xnb</Output>
+      <Time>2011-07-08T01:48:05.754-06:00</Time>
+    </Item>
+    <Item>
+      <Source>cats.png</Source>
+      <Name>cats</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\tictactoe\tictactoe\tictactoe\bin\x86\Debug\Content\cats.xnb</Output>
+      <Time>2011-07-09T02:47:14.2234-06:00</Time>
+    </Item>
+    <Item>
+      <Source>exit.png</Source>
+      <Name>exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\tictactoe\tictactoe\tictactoe\bin\x86\Debug\Content\exit.xnb</Output>
+      <Time>2011-07-09T02:47:14.2244-06:00</Time>
+    </Item>
+    <Item>
+      <Source>newGame.png</Source>
+      <Name>newGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\tictactoe\tictactoe\tictactoe\bin\x86\Debug\Content\newGame.xnb</Output>
+      <Time>2011-07-09T02:47:14.2254-06:00</Time>
+    </Item>
+    <Item>
+      <Source>player1.png</Source>
+      <Name>player1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\tictactoe\tictactoe\tictactoe\bin\x86\Debug\Content\player1.xnb</Output>
+      <Time>2011-07-09T02:47:14.2274-06:00</Time>
+    </Item>
+    <Item>
+      <Source>player2.png</Source>
+      <Name>player2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\tictactoe\tictactoe\tictactoe\bin\x86\Debug\Content\player2.xnb</Output>
+      <Time>2011-07-09T02:47:14.2284-06:00</Time>
+    </Item>
+    <Item>
+      <Source>resume.png</Source>
+      <Name>resume</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\tictactoe\tictactoe\tictactoe\bin\x86\Debug\Content\resume.xnb</Output>
+      <Time>2011-07-09T02:47:14.2294-06:00</Time>
+    </Item>
+    <Item>
+      <Source>title.png</Source>
+      <Name>title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\tictactoe\tictactoe\tictactoe\bin\x86\Debug\Content\title.xnb</Output>
+      <Time>2011-07-09T02:47:14.2294-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Pericles.spritefont</Source>
+      <Name>Pericles</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\Documents\Visual Studio 2010\Projects\tictactoe\tictactoe\tictactoe\bin\x86\Debug\Content\Pericles.xnb</Output>
+      <Time>2011-07-09T03:19:50.4614-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Justin\Documents\Visual Studio 2010\Projects\tictactoe\tictactoe\tictactoeContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Justin\Documents\Visual Studio 2010\Projects\tictactoe\tictactoe\tictactoe\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Justin\Documents\Visual Studio 2010\Projects\tictactoe\tictactoe\tictactoeContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Justin\Documents\Visual Studio 2010\Projects\tictactoe\tictactoe\tictactoe\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-07-05T02:27:49.2532-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
